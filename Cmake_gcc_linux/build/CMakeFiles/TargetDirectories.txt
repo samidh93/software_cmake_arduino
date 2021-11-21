@@ -1,0 +1,3 @@
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/build/CMakeFiles/Main.dir
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/build/CMakeFiles/edit_cache.dir

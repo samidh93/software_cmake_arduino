@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/src/main.cpp
+main.h
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/src/main.h
+
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/src/main.h
+
+/home/pi/Public/dev/software_cmake_arduino/Cmake_gcc_linux/src/other.cpp
+iostream
+-
+
