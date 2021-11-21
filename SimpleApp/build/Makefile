@@ -152,6 +152,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Main.dir\build.make CMakeFiles/Main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/other.obj: src/other.cpp.obj
+.PHONY : src/other.obj
+
+# target to build an object file
+src/other.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Main.dir\build.make CMakeFiles/Main.dir/src/other.cpp.obj
+.PHONY : src/other.cpp.obj
+
+src/other.i: src/other.cpp.i
+.PHONY : src/other.i
+
+# target to preprocess a source file
+src/other.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Main.dir\build.make CMakeFiles/Main.dir/src/other.cpp.i
+.PHONY : src/other.cpp.i
+
+src/other.s: src/other.cpp.s
+.PHONY : src/other.s
+
+# target to generate assembly for a file
+src/other.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Main.dir\build.make CMakeFiles/Main.dir/src/other.cpp.s
+.PHONY : src/other.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +188,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/other.obj
+	@echo ... src/other.i
+	@echo ... src/other.s
 .PHONY : help
 
 
