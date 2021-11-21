@@ -1,0 +1,10 @@
+^C:\USERS\SAMIDHIAB\THEION_REPOS\SOFTWARE_CMAKE_ARDUINO\CMAKE_GCC_WINDOWS\BUILD\CMAKEFILES\4688F6E4A231306AB21F3D332B2B1B80\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows -BC:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows/build/Main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
