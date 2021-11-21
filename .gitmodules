@@ -7,3 +7,6 @@
 [submodule "Arduino-CMake-Toolchain"]
 	path = Arduino-CMake-Toolchain
 	url = https://github.com/a9183756-gh/Arduino-CMake-Toolchain.git
+[submodule "ArduinoCore-avr"]
+	path = ArduinoCore-avr
+	url = https://github.com/arduino/ArduinoCore-avr.git
