@@ -1,5 +1,5 @@
 CMakeFiles/Main.dir/src/other.cpp.obj: \
- C:\Users\SamiDhiab\Theion_Repos\software_cmake_arduino\SimpleApp\src\other.cpp \
+ C:\Users\SamiDhiab\Theion_Repos\software_cmake_arduino\Cmake_gcc_windows\src\other.cpp \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/iostream \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

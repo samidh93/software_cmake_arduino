@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/src/main.cpp" "CMakeFiles/Main.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Main.dir/src/main.cpp.obj.d"
-  "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/src/other.cpp" "CMakeFiles/Main.dir/src/other.cpp.obj" "gcc" "CMakeFiles/Main.dir/src/other.cpp.obj.d"
+  "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows/src/main.cpp" "CMakeFiles/Main.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Main.dir/src/main.cpp.obj.d"
+  "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows/src/other.cpp" "CMakeFiles/Main.dir/src/other.cpp.obj" "gcc" "CMakeFiles/Main.dir/src/other.cpp.obj.d"
   )
 
 # Targets to which this target links.

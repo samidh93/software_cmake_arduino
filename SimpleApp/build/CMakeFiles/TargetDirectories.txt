@@ -1,3 +1,0 @@
-C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/build/CMakeFiles/Main.dir
-C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/build/CMakeFiles/edit_cache.dir
-C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/build/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp
+# Install script for directory: C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/SimpleApp/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/SamiDhiab/Theion_Repos/software_cmake_arduino/Cmake_gcc_windows/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
